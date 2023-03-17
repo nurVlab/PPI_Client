@@ -1,0 +1,17 @@
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\bin\Debug\net6.0-windows\PPI_Server.exe
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\bin\Debug\net6.0-windows\PPI_Server.deps.json
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\bin\Debug\net6.0-windows\PPI_Server.runtimeconfig.json
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\bin\Debug\net6.0-windows\PPI_Server.dll
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\bin\Debug\net6.0-windows\PPI_Server.pdb
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.csproj.AssemblyReference.cache
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.Form1.resources
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.csproj.GenerateResource.cache
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.AssemblyInfoInputs.cache
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.AssemblyInfo.cs
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.csproj.CoreCompileInputs.cache
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.dll
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\refint\PPI_Server.dll
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.pdb
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\PPI_Server.genruntimeconfig.cache
+C:\Users\BJla6\source\repos\PPI_Server\PPI_Server\obj\Debug\net6.0-windows\ref\PPI_Server.dll
