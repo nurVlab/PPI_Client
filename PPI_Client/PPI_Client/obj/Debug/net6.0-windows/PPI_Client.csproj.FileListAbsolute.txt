@@ -1,0 +1,17 @@
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\bin\Debug\net6.0-windows\PPI_Client.exe
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\bin\Debug\net6.0-windows\PPI_Client.deps.json
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\bin\Debug\net6.0-windows\PPI_Client.runtimeconfig.json
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\bin\Debug\net6.0-windows\PPI_Client.dll
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\bin\Debug\net6.0-windows\PPI_Client.pdb
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.csproj.AssemblyReference.cache
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.Form1.resources
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.csproj.GenerateResource.cache
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.AssemblyInfoInputs.cache
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.AssemblyInfo.cs
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.csproj.CoreCompileInputs.cache
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.dll
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\refint\PPI_Client.dll
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.pdb
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\PPI_Client.genruntimeconfig.cache
+C:\Users\BJla6\source\repos\PPI_Client\PPI_Client\obj\Debug\net6.0-windows\ref\PPI_Client.dll
